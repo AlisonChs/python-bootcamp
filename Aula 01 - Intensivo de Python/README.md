@@ -36,6 +36,11 @@ Use esse código para descobrir qual a posição de um item que queira clicar
   
 <code> pyautogui.position() </code>
 
-Após essas pequenas modificações, você pode executar da maneira que preferir. Sendo a mais rápida abrindo o CMD e digitando:
+Após essas pequenas modificações, você pode executar da maneira que preferir. Sendo a mais rápida abrindo o seu terminal e digitando:
 
 <code> > Python seuarquivo.py </code>
+
+# Resultado
+
+O resultado em vídeo será feito para visualizações mais rápidas.
+
