@@ -33,13 +33,13 @@
 
 O <strong>Intensivão de Python</strong> promete te preparar para se destacar no mercado de trabalho - Neste repositório será armazenado todos os arquivos e anotações
       
-Você pode entrar no canal da <a href="https://bit.ly/2YokQRX">HASHTAG Treinamentos</a> para ver mais sobre o treinamento.
+Você pode entrar no canal da <a target="_blank" href="https://bit.ly/2YokQRX">HASHTAG Treinamentos</a> para ver mais sobre o treinamento.
 
 ---
 
 ## :rocket: Tecnologias Utilizadas
 
-Até o momento, a única tecnologia usada além das IDE'S é o Python <a href="https://developer.mozilla.org/pt-BR/docs/Glossary/Python"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
+Até o momento, a única tecnologia usada além das IDE'S é o Python <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Glossary/Python"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
 
 <small>Algumas bibliotecas foram utilizadas, e serão inseridas conforme o tempo de andamento do projeto.</small>
 
