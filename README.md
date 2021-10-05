@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png" width="200px">
     <br>
 </p>
 <h1 align="center">Python impressionador</h1>
