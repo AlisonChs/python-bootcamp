@@ -40,6 +40,8 @@ Após essas pequenas modificações, você pode executar da maneira que preferir
 
 <code> > Python seuarquivo.py </code>
 
+<br>
+
 # Resultado
 
 O resultado em vídeo será feito para visualizações mais rápidas.
